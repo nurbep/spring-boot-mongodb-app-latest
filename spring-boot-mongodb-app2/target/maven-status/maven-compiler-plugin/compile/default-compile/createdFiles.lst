@@ -1,0 +1,7 @@
+com\example\springbootmongodbapp2\repository\CustomUserRepository.class
+com\example\springbootmongodbapp2\controller\UserController.class
+com\example\springbootmongodbapp2\entity\User.class
+com\example\springbootmongodbapp2\repository\UserRepository.class
+com\example\springbootmongodbapp2\config\MongoConfig.class
+com\example\springbootmongodbapp2\repository\UserDao.class
+com\example\springbootmongodbapp2\SpringBootMongodbApp2Application.class
